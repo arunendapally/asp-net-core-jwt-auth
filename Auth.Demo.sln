@@ -10,6 +10,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.gitignore = .gitignore
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomAuth.Demo", "CustomAuth.Demo\CustomAuth.Demo.csproj", "{CC5DF41B-D794-4C6C-BA65-D27F8DD42BCD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +22,10 @@ Global
 		{A2490B8C-7279-4C9D-A36B-730713B54E8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2490B8C-7279-4C9D-A36B-730713B54E8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2490B8C-7279-4C9D-A36B-730713B54E8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC5DF41B-D794-4C6C-BA65-D27F8DD42BCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC5DF41B-D794-4C6C-BA65-D27F8DD42BCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC5DF41B-D794-4C6C-BA65-D27F8DD42BCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC5DF41B-D794-4C6C-BA65-D27F8DD42BCD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
